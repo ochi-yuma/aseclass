@@ -11,4 +11,6 @@
 
 - This line is added in Lesson 2.
 - This line is added in Step 5 of Lesson 4.
-- This line is added in Lesson 3.
+- This line is added in Lesson 4.
+
+- This line is added in Lesson 6.
